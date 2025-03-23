@@ -103,3 +103,4 @@ function clock() {
 }
 
 window.requestAnimationFrame(clock);
+init();
