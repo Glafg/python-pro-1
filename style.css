@@ -1,17 +1,10 @@
-
-body{
-font-family: Arial, Verdana; /* Семейство шрифтов */
-font-size: 18px;
+#cw {
+  position: fixed;
+  z-index: -1;
 }
 
-h1{
-color: darkblue;text-align: center;
-
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(0 0 0 / 5%);
 }
-p{
-font-weight: 600;
-}
-li{
-  margin-bottom: 10px;
-}
-
